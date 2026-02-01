@@ -7,6 +7,7 @@ Depending on what you're planning, refer to the corresponding rule.
 Your workflow should look like this:
 1. Implement Feature/Task
     - **Coding**: [agent-rules/coding.md](./agent-rules/coding.md)
+    - **Python Coding Standards** (when writing Python): [agent-rules/language-specific/python_coding_standards.md](./agent-rules/language-specific/python_coding_standards.md)
 2. Adapt Documentation:
     - **Documentation**: [agent-rules/documentation.md](./agent-rules/documentation.md)
 3. Test New Features:
